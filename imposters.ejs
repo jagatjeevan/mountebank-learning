@@ -1,0 +1,17 @@
+{
+  "imposters": [
+    {
+      "port": "4545",
+      "protocol": "http",
+      "defaultResponse": {
+        "statusCode": "404",
+        "body": "Not found",
+        "headers": {}
+      },
+      "recordRequests": "false",
+      "stubs": [
+        <% include imposters/test.ejs %>
+      ]
+    }
+  ]
+}

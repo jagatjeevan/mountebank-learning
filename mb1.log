@@ -1,0 +1,9 @@
+{"level":"info","message":"[mb:6000] mountebank v2.9.1 now taking orders - point your browser to http://localhost:6000/ for help","timestamp":"2024-01-27T07:03:29.968Z"}
+{"level":"info","message":"[mb:6000] POST /imposters","timestamp":"2024-01-27T07:03:29.986Z"}
+{"level":"info","message":"[http:6001] Open for business...","timestamp":"2024-01-27T07:03:29.992Z"}
+{"level":"info","message":"[http:6001] ::1:65380 => GET /","timestamp":"2024-01-27T07:03:47.205Z"}
+{"level":"info","message":"[http:6001] ::1:65381 => GET /favicon.ico","timestamp":"2024-01-27T07:03:49.501Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2024-01-27T07:03:49.502Z"}
+{"level":"info","message":"[http:6001] ::1:49170 => GET /","timestamp":"2024-01-27T07:04:20.618Z"}
+{"level":"info","message":"[http:6001] ::1:49171 => GET /favicon.ico","timestamp":"2024-01-27T07:04:22.891Z"}
+{"level":"info","message":"[http:6001] no predicate match, using default response","timestamp":"2024-01-27T07:04:22.892Z"}
